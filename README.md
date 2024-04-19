@@ -1,4 +1,4 @@
-# run_scripts_with_script_arguments
+# Run Scripts with Script Arguments
 Python scripts can accept command-line arguments, allowing greater flexibility and customization. We can use these arguments and pass them to the script when they are executed, enabling us to provide input or specify options dynamically.  
 
 Let's make a more complicated function that utilizes argument Parsing:  
