@@ -21,6 +21,7 @@ if __name__ == '__main__':
 ```
 
 This code above is made to expect a single argument, a name:  
+
 To utilize this code, we need to run the following command:  
 
 ```
